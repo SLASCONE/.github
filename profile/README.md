@@ -12,4 +12,5 @@ All repositories/examples work "out of the box" by connecting to our official De
 
 - C#/.NET:  [SLASCONE Demo (desktop/wpf application)](https://github.com/SLASCONE/SLASCONE-demo-wpf-nuget) or [SLASCONE Demo (console application)](https://github.com/SLASCONE/SLASCONE-demo-csharp-nuget)
 - Java: [SLASCONE-demo-java](https://github.com/SLASCONE/SLASCONE-demo-java)
+- C++: [SLASCONE-demo-cpp](https://github.com/SLASCONE/SLASCONE-demo-cpp)
 - Other Languages: In this case you can just refer to any of the repositories as a reference
